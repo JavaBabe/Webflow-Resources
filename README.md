@@ -3,5 +3,5 @@ This repository is a collection of helpful resources, tutorials, templates, and 
 
 ## #1 - Smooth Scroll
 
-A simple JavaScript script for achieving smooth scrolling behavior on your website. Simply add this script before </body> tag.
+A simple JavaScript script for achieving smooth scrolling behavior on your website. Simply add this script before `</body>` tag.
 - [Smooth Scroll Script](https://github.com/mtoqeeriqbal/Webflow-Resources/blob/main/smooth-scroll.js)
