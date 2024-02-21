@@ -9,9 +9,9 @@ This repository is a collection of helpful resources, tutorials, templates, and 
 ### 📜 Smooth Scroll <a name = "smooth-scroll"></a>
 
 A simple JavaScript script for achieving smooth scrolling behavior on your website. Simply add this script before `</body>` tag.
-- [Smooth Scroll Script](https://github.com/mtoqeeriqbal/Webflow-Resources/blob/main/smooth-scroll.js){:target="_blank"}
+- [Smooth Scroll Script](https://github.com/mtoqeeriqbal/Webflow-Resources/blob/main/smooth-scroll.js) {:target="_blank"}
 
 ### 🎨 Webflow Style Systems <a name = "wf-style-system"></a>
 
 Discover a curated list of potential style systems tailored for Webflow projects. Explore various options to enhance your design consistency and efficiency.
-- [Client-First](https://finsweet.com/client-first){:target="_blank"}
+- [Client-First](https://finsweet.com/client-first) {:target="_blank"}
