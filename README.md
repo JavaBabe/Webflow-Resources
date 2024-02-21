@@ -14,6 +14,6 @@ A simple JavaScript script for achieving smooth scrolling behavior on your websi
 ### 🎨 Webflow Style Systems <a name = "wf-style-system"></a>
 
 Discover a curated list of potential style systems tailored for Webflow projects. Explore various options to enhance your design consistency and efficiency.
-- [Client-First](https://finsweet.com/client-first)
+- [Client-First Style System](https://finsweet.com/client-first)
 
     - Client-First is a set of guidelines and strategies to help us build Webflow websites. Built and managed by Finsweet.
