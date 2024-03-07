@@ -8,6 +8,7 @@ This repository is a collection of helpful resources, tutorials, templates, and 
     - [Smooth Scroll Script](#smooth-scroll)
     - [Finsweet Attributes](#finsweet-att)
     - [jQuery Builder](#jquery-builder-wiz)
+    - [Webflow CSS Propertise](#wf-css)
 + [Youtube Channels](#yt-ch)
 
 ### 🎨 Webflow Style Systems <a name = "wf-style-system"></a>
@@ -27,6 +28,8 @@ Discover a curated list of potential style systems tailored for Webflow projects
 **without code**.
 - [jQuery Builder](https://jquery-builder.webflow.io/) <a name = "jquery-builder-wiz"></a>
     - An intuitive tool designed to simplify the creation of jQuery scripts for Webflow projects. Enhance your site's interactivity with ease, leveraging a user-friendly interface.
+- [Webflow CSS Properties](https://www.flowscriipt.com/tools/webflow-css) <a name = "wf-css"></a>
+    - List of every custom CSS you can add to Webflow, with examples and properties to copy and paste.
 
 
 ### 📜 Youtube Channels <a name = "yt-ch"></a>
