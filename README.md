@@ -11,6 +11,7 @@ This repository is a collection of helpful resources, tutorials, templates, and 
   - [Finsweet Attributes](#finsweet-att)
   - [jQuery Builder](#jquery-builder-wiz)
   - [Webflow CSS Propertise](#wf-css)
+  - [Howler JS](#hw-js)
 - [Youtube Channels](#yt-ch)
 
 ### 🎨 Webflow Style Systems <a name = "wf-style-system"></a>
@@ -31,7 +32,7 @@ Discover a curated list of potential style systems tailored for Webflow projects
   - An intuitive tool designed to simplify the creation of jQuery scripts for Webflow projects. Enhance your site's interactivity with ease, leveraging a user-friendly interface.
 - [Webflow CSS Properties](https://www.flowscriipt.com/tools/webflow-css) <a name = "wf-css"></a>
   - List of every custom CSS you can add to Webflow, with examples and properties to copy and paste.
-- [HowlerJS](https://howlerjs.com/) <a name = "wf-css"></a>
+- [HowlerJS](https://howlerjs.com/) <a name = "hw-js"></a>
   - howler.js is an audio library for the modern web. It defaults to Web Audio API and falls back to HTML5 Audio. This makes working with audio in JavaScript easy and reliable across all platforms.
 
 ### 📜 Youtube Channels <a name = "yt-ch"></a>
