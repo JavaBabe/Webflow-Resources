@@ -12,6 +12,8 @@ This repository is a collection of helpful resources, tutorials, templates, and 
   - [jQuery Builder](#jquery-builder-wiz)
   - [Webflow CSS Propertise](#wf-css)
   - [Howler JS](#hw-js)
+- [AI](#ai)
+  - [ChatGPT API Free Reverse Proxy](#chatgpt-key)
 - [Youtube Channels](#yt-ch)
 
 ### 🎨 Webflow Style Systems <a name = "wf-style-system"></a>
@@ -34,6 +36,11 @@ Discover a curated list of potential style systems tailored for Webflow projects
   - List of every custom CSS you can add to Webflow, with examples and properties to copy and paste.
 - [HowlerJS](https://howlerjs.com/) <a name = "hw-js"></a>
   - howler.js is an audio library for the modern web. It defaults to Web Audio API and falls back to HTML5 Audio. This makes working with audio in JavaScript easy and reliable across all platforms.
+
+### 📜 AI Resources <a name = "ai"></a>
+- [OpenAI API Free Reverse Proxy](https://github.com/PawanOsman/ChatGPT) <a name = "chatgpt-key"></a>
+  - 🔐 ChatGPT API Free Reverse Proxy
+
 
 ### 📜 Youtube Channels <a name = "yt-ch"></a>
 
