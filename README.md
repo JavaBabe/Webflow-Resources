@@ -12,7 +12,7 @@ This repository is a collection of helpful resources, tutorials, templates, and 
   - [jQuery Builder](#jquery-builder-wiz)
   - [Webflow CSS Propertise](#wf-css)
   - [Howler JS](#hw-js)
-- [AI](#ai)
+- [AI Resources](#ai)
   - [ChatGPT API Free Reverse Proxy](#chatgpt-key)
 - [Youtube Channels](#yt-ch)
 
