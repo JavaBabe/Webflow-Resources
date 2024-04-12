@@ -46,3 +46,7 @@ Discover a curated list of potential style systems tailored for Webflow projects
 
 - [Web Bae](https://www.youtube.com/@webbae) <a name = "smooth-scroll"></a>
   - 🔐 Unlock the full potential of Webflow with Code
+- [WizedDev](https://www.youtube.com/@WizedDev/videos) <a name = "WizedDev"></a>
+  - 🔐 Weekly Wized Tips & Best Practices for “Clean” Projects
+
+
