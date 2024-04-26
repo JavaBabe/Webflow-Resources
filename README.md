@@ -15,6 +15,7 @@ This repository is a collection of helpful resources, tutorials, templates, and 
 - [AI Resources](#ai)
   - [ChatGPT API Free Reverse Proxy](#chatgpt-key)
 - [Youtube Channels](#yt-ch)
+- [Webflow Apps Resources](#wf-app)
 
 ### 🎨 Webflow Style Systems <a name = "wf-style-system"></a>
 
@@ -48,5 +49,10 @@ Discover a curated list of potential style systems tailored for Webflow projects
   - 🔐 Unlock the full potential of Webflow with Code
 - [WizedDev](https://www.youtube.com/@WizedDev/videos) <a name = "WizedDev"></a>
   - 🔐 Weekly Wized Tips & Best Practices for “Clean” Projects
+
+  ### 📜 Webflow Apps Resources <a name = "wf-app"></a>
+
+- [Webflow App Template (React)](https://github.com/stefanwittwer/webflow-app-template-react/tree/main) <a name = "smooth-scroll"></a>
+  - 🔐 Template for a Webflow App (designer extension) using React and Vite
 
 
