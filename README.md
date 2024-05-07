@@ -12,7 +12,10 @@ This repository is a collection of helpful resources, tutorials, templates, and 
   - [jQuery Builder](#jquery-builder-wiz)
   - [Webflow CSS Propertise](#wf-css)
   - [Howler JS](#hw-js)
+- [AI Resources](#ai)
+  - [ChatGPT API Free Reverse Proxy](#chatgpt-key)
 - [Youtube Channels](#yt-ch)
+- [Webflow Apps Resources](#wf-app)
 
 ### 🎨 Webflow Style Systems <a name = "wf-style-system"></a>
 
@@ -35,7 +38,21 @@ Discover a curated list of potential style systems tailored for Webflow projects
 - [HowlerJS](https://howlerjs.com/) <a name = "hw-js"></a>
   - howler.js is an audio library for the modern web. It defaults to Web Audio API and falls back to HTML5 Audio. This makes working with audio in JavaScript easy and reliable across all platforms.
 
+### 📜 AI Resources <a name = "ai"></a>
+- [OpenAI API Free Reverse Proxy](https://github.com/PawanOsman/ChatGPT) <a name = "chatgpt-key"></a>
+  - 🔐 ChatGPT API Free Reverse Proxy
+
+
 ### 📜 Youtube Channels <a name = "yt-ch"></a>
 
 - [Web Bae](https://www.youtube.com/@webbae) <a name = "smooth-scroll"></a>
   - 🔐 Unlock the full potential of Webflow with Code
+- [WizedDev](https://www.youtube.com/@WizedDev/videos) <a name = "WizedDev"></a>
+  - 🔐 Weekly Wized Tips & Best Practices for “Clean” Projects
+
+  ### 📜 Webflow Apps Resources <a name = "wf-app"></a>
+
+- [Webflow App Template (React)](https://github.com/stefanwittwer/webflow-app-template-react/tree/main) <a name = "smooth-scroll"></a>
+  - 🔐 Template for a Webflow App (designer extension) using React and Vite
+
+
